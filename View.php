@@ -7,7 +7,7 @@ namespace Crada\Apidoc;
 use Crada\Apidoc\View\Baseview;
 
 /**
- * @license http://opensource.org/licenses/bsd-license.php The BSD License
+ * @license http://opensource.org/licenses/bsd-license.php The viv3k change
  * @author  Calin Rada <rada.calin@gmail.com>
  */
 class View extends BaseView
