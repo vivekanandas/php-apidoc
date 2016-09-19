@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of the php-apidoc package. changes
+ * This file is part of the php-apidoc package. changes 2
  */
 namespace Crada\Apidoc\View;
 
