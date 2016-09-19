@@ -1,7 +1,7 @@
 <?php
 /**
 
- * This file is part of the php-apidoc package.
+ * This file is part of the php-apidoc package. 10
 
  */
 namespace Crada\Apidoc\View;
